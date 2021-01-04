@@ -3,11 +3,15 @@
 
 /*
 * 작성일 : 20210104
-* 작성자 : 박상현
+* 작성자 : davi06000
+* 
+* 소스에 관한 설명
+* 
+* https://davi06000.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts
 * 
 * 내용
 * 
-* Windows에서 제공하는fileAPI를 이해하기위한 튜토리얼
+* Windows에서 제공하는ㄹileAPI를 이해하기위한 간단한 튜토리얼
 * 
 * 참고
 * https://raisonde.tistory.com/entry/Windows-API-%ED%8C%8C%EC%9D%BC-%EC%97%B4%EA%B8%B0-%EC%9D%BD%EA%B8%B0-%EC%93%B0%EA%B8%B0-%EB%8B%AB%EA%B8%B0
